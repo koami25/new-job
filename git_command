@@ -1,0 +1,7 @@
+ git init
+git add .
+git commit -m 
+git remote add origin and (paste the link of the github repositity git rmeote -v to verify if the remote repository has been attached 
+git add .
+git commit -m  message
+git push origin and branch name _commands
